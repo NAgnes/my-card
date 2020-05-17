@@ -70,7 +70,7 @@ body {
 	font-size: 1.125rem;
 	line-height: 2.25rem;
 	color: black;
-	background-color: #008080;
+	background-color: darkcyan;
 }
 
 h1,
@@ -106,6 +106,7 @@ h2 {
 .content p {
   color: #2f4f4f;
 	font-weight: bold;
+	font-size: 1.188rem;
 }
 
 .detail {
@@ -138,7 +139,7 @@ a:hover {
 
 /* Picture Styles */
 .picture {
-  width: 10%;
+  width: 20%;
 }
 
 img {
